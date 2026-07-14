@@ -84,7 +84,7 @@ fraud-detection-system/
 ├── notebooks/                 # Training pipeline notebooks (in progress)
 ├── docs/
 │   ├── PROJECT.md             # Full detailed methodology, findings, limitations
-│   └── PROJECT_DESCRIPTION.md # Short-form summaries for resume/LinkedIn/interviews
+│   └── PROJECT_DESCRIPTION.md 
 ├── requirements.txt
 └── README.md
 ```
