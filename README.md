@@ -7,7 +7,7 @@
 [![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-2.8-orange)](https://pytorch-geometric.readthedocs.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
-**🚀 [Live Demo](https://fraud-detection-system-wpvpkvxzrhbdbsqmxf5n2h.streamlit.app/)** &nbsp;·&nbsp; **📄 [Detailed Project Documentation](docs/PROJECT.md)** &nbsp;·&nbsp; **📝 [Short Description](docs/PROJECT_DESCRIPTION.md)**
+**🚀 [Live Demo](https://fraud-detection-system-wpvpkvxzrhbdbsqmxf5n2h.streamlit.app/)** &nbsp;·&nbsp; **📄 [Detailed Project Documentation](docs/PROJECT.md)** &nbsp;·&nbsp;
 
 ---
 
