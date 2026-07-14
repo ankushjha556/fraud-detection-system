@@ -1,0 +1,26 @@
+# Data
+data/*.csv
+data/*.zip
+*.parquet
+
+# Model artifacts are small (<1MB total) and committed directly — see models/ folder.
+# Only exclude genuinely large training-time checkpoints if regenerated locally:
+models/shared_splits.pkl
+models/*.npy
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle credentials — never commit
+kaggle.json
