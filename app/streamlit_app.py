@@ -314,8 +314,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Project by**")
     st.markdown("Ankush Kumar Jha")
-    st.markdown("IIT Patna — CS & Data Analytics")
-    st.markdown("[GitHub](https://github.com/ankushjha556) · [LinkedIn](https://linkedin.com/in/ankush-jha-032696318)")
+    
     st.markdown("---")
     st.markdown("### 📊 Dataset")
     st.markdown(
