@@ -92,7 +92,7 @@ fraud-detection-system/
 ## Author
 
 **Ankush Kumar Jha**
-B.S. Computer Science & Data Analytics, IIT Patna
+IIT Patna
 [GitHub](https://github.com/ankushjha556) · [LinkedIn](https://linkedin.com/in/ankush-jha-032696318)
 
 ## License
