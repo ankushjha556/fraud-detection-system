@@ -1,6 +1,6 @@
 # Advanced Fraud Detection System — Detailed Project Documentation
 
-**Author:** Ankush Kumar Jha, B.S. Computer Science & Data Analytics, IIT Patna
+**Author:** Ankush Kumar Jha, IIT Patna
 **Live app:** https://fraud-detection-system-wpvpkvxzrhbdbsqmxf5n2h.streamlit.app/
 **Dataset:** [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
